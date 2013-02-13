@@ -14,6 +14,7 @@ namespace DM.Core.Net
 {
     public class DotNetEmailClient : IDisposable
     {
+        //Prueba, esto lo agrego Eugenio
 
         #region VARIABLES LOCALES
 
