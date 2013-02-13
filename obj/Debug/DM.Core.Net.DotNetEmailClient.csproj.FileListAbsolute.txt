@@ -1,0 +1,5 @@
+c:\users\coder\documents\visual studio 2012\Projects\DM.Core.Net.DotNetEmailClient\bin\Debug\DM.Core.Net.DotNetEmailClient.dll
+c:\users\coder\documents\visual studio 2012\Projects\DM.Core.Net.DotNetEmailClient\bin\Debug\DM.Core.Net.DotNetEmailClient.pdb
+c:\users\coder\documents\visual studio 2012\Projects\DM.Core.Net.DotNetEmailClient\obj\Debug\DM.Core.Net.DotNetEmailClient.csprojResolveAssemblyReference.cache
+c:\users\coder\documents\visual studio 2012\Projects\DM.Core.Net.DotNetEmailClient\obj\Debug\DM.Core.Net.DotNetEmailClient.dll
+c:\users\coder\documents\visual studio 2012\Projects\DM.Core.Net.DotNetEmailClient\obj\Debug\DM.Core.Net.DotNetEmailClient.pdb
